@@ -1,0 +1,20 @@
+Rendering to 1000x1000 image
+Loaded scene with 10000 circles
+---------------------------------------------------------
+Initializing CUDA for CudaRenderer
+Found 1 CUDA devices
+Device 0: GeForce GTX 1060
+   SMs:        10
+   Global mem: 6073 MB
+   CUDA Cap:   6.1
+---------------------------------------------------------
+WARNING: You're not running on a fast GPU, please consider using NVIDIA GTX 480, 670 or 780.
+---------------------------------------------------------
+
+Running benchmark, 4 frames, beginning at frame 0 ...
+Clear:    0.1097 ms
+Advance:  0.0013 ms
+Render:   45.4493 ms
+Total:    45.5602 ms
+
+Overall:  0.1825 sec (note units are seconds)
